@@ -1,5 +1,11 @@
+import { Container } from "./styles";
+
 export function Summary(){
     return (
-        <h1><Summary></Summary></h1>
+        <Container>
+            <div>
+                
+            </div>
+        </Container>
     );
 }
